@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Rad sa knjigama c# konzolna aplikacija\Rad sa knjigama c# konzolna aplikacija\bin\Debug\Rad sa knjigama c# konzolna aplikacija.exe.config
+C:\Users\mihaj\source\repos\c#\Rad sa knjigama c# konzolna aplikacija\Rad sa knjigama c# konzolna aplikacija\bin\Debug\Rad sa knjigama c# konzolna aplikacija.exe
+C:\Users\mihaj\source\repos\c#\Rad sa knjigama c# konzolna aplikacija\Rad sa knjigama c# konzolna aplikacija\bin\Debug\Rad sa knjigama c# konzolna aplikacija.pdb
+C:\Users\mihaj\source\repos\c#\Rad sa knjigama c# konzolna aplikacija\Rad sa knjigama c# konzolna aplikacija\obj\Debug\Rad sa knjigama c# konzolna aplikacija.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Rad sa knjigama c# konzolna aplikacija\Rad sa knjigama c# konzolna aplikacija\obj\Debug\Rad sa knjigama c# konzolna aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Rad sa knjigama c# konzolna aplikacija\Rad sa knjigama c# konzolna aplikacija\obj\Debug\Rad sa knjigama c# konzolna aplikacija.exe
+C:\Users\mihaj\source\repos\c#\Rad sa knjigama c# konzolna aplikacija\Rad sa knjigama c# konzolna aplikacija\obj\Debug\Rad sa knjigama c# konzolna aplikacija.pdb

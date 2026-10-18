@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Rad sa string c#\Rad sa string c#\bin\Debug\Rad sa string c#.exe.config
+C:\Users\mihaj\source\repos\c#\Rad sa string c#\Rad sa string c#\bin\Debug\Rad sa string c#.exe
+C:\Users\mihaj\source\repos\c#\Rad sa string c#\Rad sa string c#\bin\Debug\Rad sa string c#.pdb
+C:\Users\mihaj\source\repos\c#\Rad sa string c#\Rad sa string c#\obj\Debug\Rad sa string c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Rad sa string c#\Rad sa string c#\obj\Debug\Rad sa string c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Rad sa string c#\Rad sa string c#\obj\Debug\Rad sa string c#.exe
+C:\Users\mihaj\source\repos\c#\Rad sa string c#\Rad sa string c#\obj\Debug\Rad sa string c#.pdb

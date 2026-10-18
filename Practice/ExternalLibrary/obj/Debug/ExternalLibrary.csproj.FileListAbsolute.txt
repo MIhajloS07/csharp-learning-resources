@@ -1,0 +1,6 @@
+C:\Users\mihaj\source\repos\c#\Vezbanje\ExternalLibrary\bin\Debug\ExternalLibrary.dll
+C:\Users\mihaj\source\repos\c#\Vezbanje\ExternalLibrary\bin\Debug\ExternalLibrary.pdb
+C:\Users\mihaj\source\repos\c#\Vezbanje\ExternalLibrary\obj\Debug\ExternalLibrary.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Vezbanje\ExternalLibrary\obj\Debug\ExternalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Vezbanje\ExternalLibrary\obj\Debug\ExternalLibrary.dll
+C:\Users\mihaj\source\repos\c#\Vezbanje\ExternalLibrary\obj\Debug\ExternalLibrary.pdb

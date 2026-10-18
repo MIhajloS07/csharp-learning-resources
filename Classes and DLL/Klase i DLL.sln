@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klase i DLL", "Klase i DLL\Klase i DLL.csproj", "{68897AA0-6F53-4C2B-B96B-0BB81EE0B876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicDLL", "DynamicDLL\DynamicDLL.csproj", "{CEDFBA00-D57B-472E-BD40-FA7B5A460163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68897AA0-6F53-4C2B-B96B-0BB81EE0B876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68897AA0-6F53-4C2B-B96B-0BB81EE0B876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68897AA0-6F53-4C2B-B96B-0BB81EE0B876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68897AA0-6F53-4C2B-B96B-0BB81EE0B876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDFBA00-D57B-472E-BD40-FA7B5A460163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDFBA00-D57B-472E-BD40-FA7B5A460163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDFBA00-D57B-472E-BD40-FA7B5A460163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDFBA00-D57B-472E-BD40-FA7B5A460163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE7EE850-1713-4B98-B082-FADE87AEF245}
+	EndGlobalSection
+EndGlobal

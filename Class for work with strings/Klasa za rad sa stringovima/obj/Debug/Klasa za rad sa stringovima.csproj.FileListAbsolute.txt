@@ -1,0 +1,8 @@
+C:\Users\mihaj\source\repos\c#\Klasa za rad sa stringovima\Klasa za rad sa stringovima\bin\Debug\Klasa za rad sa stringovima.exe.config
+C:\Users\mihaj\source\repos\c#\Klasa za rad sa stringovima\Klasa za rad sa stringovima\bin\Debug\Klasa za rad sa stringovima.exe
+C:\Users\mihaj\source\repos\c#\Klasa za rad sa stringovima\Klasa za rad sa stringovima\bin\Debug\Klasa za rad sa stringovima.pdb
+C:\Users\mihaj\source\repos\c#\Klasa za rad sa stringovima\Klasa za rad sa stringovima\obj\Debug\Klasa za rad sa stringovima.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Klasa za rad sa stringovima\Klasa za rad sa stringovima\obj\Debug\Klasa za rad sa stringovima.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Klasa za rad sa stringovima\Klasa za rad sa stringovima\obj\Debug\Klasa za rad sa stringovima.exe
+C:\Users\mihaj\source\repos\c#\Klasa za rad sa stringovima\Klasa za rad sa stringovima\obj\Debug\Klasa za rad sa stringovima.pdb
+C:\Users\mihaj\source\repos\c#\Klasa za rad sa stringovima\Klasa za rad sa stringovima\obj\Debug\Klasa za rad sa stringovima.exe.config

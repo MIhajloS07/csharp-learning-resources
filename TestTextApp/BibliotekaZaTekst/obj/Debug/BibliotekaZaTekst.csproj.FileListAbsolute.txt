@@ -1,0 +1,6 @@
+C:\Users\mihaj\source\repos\c#\TestTextApp\BibliotekaZaTekst\obj\Debug\BibliotekaZaTekst.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\TestTextApp\BibliotekaZaTekst\obj\Debug\BibliotekaZaTekst.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\TestTextApp\BibliotekaZaTekst\bin\Debug\BibliotekaZaTekst.dll
+C:\Users\mihaj\source\repos\c#\TestTextApp\BibliotekaZaTekst\bin\Debug\BibliotekaZaTekst.pdb
+C:\Users\mihaj\source\repos\c#\TestTextApp\BibliotekaZaTekst\obj\Debug\BibliotekaZaTekst.dll
+C:\Users\mihaj\source\repos\c#\TestTextApp\BibliotekaZaTekst\obj\Debug\BibliotekaZaTekst.pdb

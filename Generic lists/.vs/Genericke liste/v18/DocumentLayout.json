@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VISUAL STUDIO\\c#\\Generic lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCBD6A4-D6F3-49C8-B08F-E259E70E2E4D}|Genericke liste\\Genericke liste.csproj|e:\\visual studio\\c#\\generic lists\\genericke liste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCBD6A4-D6F3-49C8-B08F-E259E70E2E4D}|Genericke liste\\Genericke liste.csproj|solutionrelative:genericke liste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCBD6A4-D6F3-49C8-B08F-E259E70E2E4D}|Genericke liste\\Genericke liste.csproj|E:\\VISUAL STUDIO\\c#\\Generic lists\\genericke liste\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCBD6A4-D6F3-49C8-B08F-E259E70E2E4D}|Genericke liste\\Genericke liste.csproj|solutionrelative:genericke liste\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ucenik.cs",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\c#\\Generic lists\\Genericke liste\\Ucenik.cs",
+              "RelativeDocumentMoniker": "Genericke liste\\Ucenik.cs",
+              "ToolTip": "E:\\VISUAL STUDIO\\c#\\Generic lists\\Genericke liste\\Ucenik.cs",
+              "RelativeToolTip": "Genericke liste\\Ucenik.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T20:44:56.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\c#\\Generic lists\\Genericke liste\\Program.cs",
+              "RelativeDocumentMoniker": "Genericke liste\\Program.cs",
+              "ToolTip": "E:\\VISUAL STUDIO\\c#\\Generic lists\\Genericke liste\\Program.cs",
+              "RelativeToolTip": "Genericke liste\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T20:44:56.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

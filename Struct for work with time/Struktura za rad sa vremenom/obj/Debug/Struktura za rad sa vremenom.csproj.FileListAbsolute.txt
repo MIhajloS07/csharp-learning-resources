@@ -1,0 +1,8 @@
+C:\Users\mihaj\source\repos\c#\Struktura za rad sa vremenom\Struktura za rad sa vremenom\bin\Debug\Struktura za rad sa vremenom.exe.config
+C:\Users\mihaj\source\repos\c#\Struktura za rad sa vremenom\Struktura za rad sa vremenom\bin\Debug\Struktura za rad sa vremenom.exe
+C:\Users\mihaj\source\repos\c#\Struktura za rad sa vremenom\Struktura za rad sa vremenom\bin\Debug\Struktura za rad sa vremenom.pdb
+C:\Users\mihaj\source\repos\c#\Struktura za rad sa vremenom\Struktura za rad sa vremenom\obj\Debug\Struktura za rad sa vremenom.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Struktura za rad sa vremenom\Struktura za rad sa vremenom\obj\Debug\Struktura za rad sa vremenom.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Struktura za rad sa vremenom\Struktura za rad sa vremenom\obj\Debug\Struktura za rad sa vremenom.exe
+C:\Users\mihaj\source\repos\c#\Struktura za rad sa vremenom\Struktura za rad sa vremenom\obj\Debug\Struktura za rad sa vremenom.pdb
+C:\Users\mihaj\source\repos\c#\Struktura za rad sa vremenom\Struktura za rad sa vremenom\obj\Debug\Struktura za rad sa vremenom.exe.config

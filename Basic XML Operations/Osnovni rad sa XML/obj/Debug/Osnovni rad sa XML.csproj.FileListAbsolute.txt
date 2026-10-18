@@ -1,0 +1,9 @@
+C:\Users\mihaj\source\repos\c#\Osnovni rad sa XML\Osnovni rad sa XML\obj\Debug\Osnovni rad sa XML.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Osnovni rad sa XML\Osnovni rad sa XML\obj\Debug\Osnovni rad sa XML.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Osnovni rad sa XML\Osnovni rad sa XML\bin\Debug\Osnovni rad sa XML.exe.config
+C:\Users\mihaj\source\repos\c#\Osnovni rad sa XML\Osnovni rad sa XML\bin\Debug\Osnovni rad sa XML.exe
+C:\Users\mihaj\source\repos\c#\Osnovni rad sa XML\Osnovni rad sa XML\bin\Debug\Osnovni rad sa XML.pdb
+C:\Users\mihaj\source\repos\c#\Osnovni rad sa XML\Osnovni rad sa XML\obj\Debug\Osnovni rad sa XML.exe
+C:\Users\mihaj\source\repos\c#\Osnovni rad sa XML\Osnovni rad sa XML\obj\Debug\Osnovni rad sa XML.pdb
+C:\Users\mihaj\source\repos\c#\Osnovni rad sa XML\Osnovni rad sa XML\obj\Debug\Osnovni rad sa XML.exe.config
+C:\Users\mihaj\source\repos\c#\Osnovni rad sa XML\Osnovni rad sa XML\bin\Debug\studenti.xml

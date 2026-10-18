@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Parcijalne klawe\Parcijalne klawe\bin\Debug\Parcijalne klawe.exe.config
+C:\Users\mihaj\source\repos\c#\Parcijalne klawe\Parcijalne klawe\bin\Debug\Parcijalne klawe.exe
+C:\Users\mihaj\source\repos\c#\Parcijalne klawe\Parcijalne klawe\bin\Debug\Parcijalne klawe.pdb
+C:\Users\mihaj\source\repos\c#\Parcijalne klawe\Parcijalne klawe\obj\Debug\Parcijalne klase.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Parcijalne klawe\Parcijalne klawe\obj\Debug\Parcijalne klase.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Parcijalne klawe\Parcijalne klawe\obj\Debug\Parcijalne klawe.exe
+C:\Users\mihaj\source\repos\c#\Parcijalne klawe\Parcijalne klawe\obj\Debug\Parcijalne klawe.pdb

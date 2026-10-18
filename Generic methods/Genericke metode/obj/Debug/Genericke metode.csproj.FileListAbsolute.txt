@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Genericke metode\Genericke metode\obj\Debug\Genericke metode.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Genericke metode\Genericke metode\obj\Debug\Genericke metode.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Genericke metode\Genericke metode\bin\Debug\Genericke metode.exe.config
+C:\Users\mihaj\source\repos\c#\Genericke metode\Genericke metode\bin\Debug\Genericke metode.exe
+C:\Users\mihaj\source\repos\c#\Genericke metode\Genericke metode\bin\Debug\Genericke metode.pdb
+C:\Users\mihaj\source\repos\c#\Genericke metode\Genericke metode\obj\Debug\Genericke metode.exe
+C:\Users\mihaj\source\repos\c#\Genericke metode\Genericke metode\obj\Debug\Genericke metode.pdb

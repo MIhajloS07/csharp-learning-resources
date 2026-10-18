@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Zadatak Ljudi i studenti OOP c#\Zadatak Ljudi i studenti OOP c#\obj\Debug\Zadatak Ljudi i studenti OOP c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Zadatak Ljudi i studenti OOP c#\Zadatak Ljudi i studenti OOP c#\obj\Debug\Zadatak Ljudi i studenti OOP c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Zadatak Ljudi i studenti OOP c#\Zadatak Ljudi i studenti OOP c#\bin\Debug\Zadatak Ljudi i studenti OOP c#.exe.config
+C:\Users\mihaj\source\repos\c#\Zadatak Ljudi i studenti OOP c#\Zadatak Ljudi i studenti OOP c#\bin\Debug\Zadatak Ljudi i studenti OOP c#.exe
+C:\Users\mihaj\source\repos\c#\Zadatak Ljudi i studenti OOP c#\Zadatak Ljudi i studenti OOP c#\bin\Debug\Zadatak Ljudi i studenti OOP c#.pdb
+C:\Users\mihaj\source\repos\c#\Zadatak Ljudi i studenti OOP c#\Zadatak Ljudi i studenti OOP c#\obj\Debug\Zadatak Ljudi i studenti OOP c#.exe
+C:\Users\mihaj\source\repos\c#\Zadatak Ljudi i studenti OOP c#\Zadatak Ljudi i studenti OOP c#\obj\Debug\Zadatak Ljudi i studenti OOP c#.pdb

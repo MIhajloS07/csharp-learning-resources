@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Klase i objekti\Klase i objekti\bin\Debug\Klase i objekti.exe.config
+C:\Users\mihaj\source\repos\c#\Klase i objekti\Klase i objekti\bin\Debug\Klase i objekti.exe
+C:\Users\mihaj\source\repos\c#\Klase i objekti\Klase i objekti\bin\Debug\Klase i objekti.pdb
+C:\Users\mihaj\source\repos\c#\Klase i objekti\Klase i objekti\obj\Debug\Klase i objekti.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Klase i objekti\Klase i objekti\obj\Debug\Klase i objekti.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Klase i objekti\Klase i objekti\obj\Debug\Klase i objekti.exe
+C:\Users\mihaj\source\repos\c#\Klase i objekti\Klase i objekti\obj\Debug\Klase i objekti.pdb

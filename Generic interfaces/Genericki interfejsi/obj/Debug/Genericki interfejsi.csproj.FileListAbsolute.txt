@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Genericki interfejsi\Genericki interfejsi\obj\Debug\Genericki interfejsi.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Genericki interfejsi\Genericki interfejsi\obj\Debug\Genericki interfejsi.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Genericki interfejsi\Genericki interfejsi\bin\Debug\Genericki interfejsi.exe.config
+C:\Users\mihaj\source\repos\c#\Genericki interfejsi\Genericki interfejsi\bin\Debug\Genericki interfejsi.exe
+C:\Users\mihaj\source\repos\c#\Genericki interfejsi\Genericki interfejsi\bin\Debug\Genericki interfejsi.pdb
+C:\Users\mihaj\source\repos\c#\Genericki interfejsi\Genericki interfejsi\obj\Debug\Genericki interfejsi.exe
+C:\Users\mihaj\source\repos\c#\Genericki interfejsi\Genericki interfejsi\obj\Debug\Genericki interfejsi.pdb

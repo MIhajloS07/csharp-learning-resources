@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Mini konzolna app c# vezbanje\Mini konzolna app c# vezbanje\bin\Debug\Mini konzolna app c# vezbanje.exe.config
+C:\Users\mihaj\source\repos\c#\Mini konzolna app c# vezbanje\Mini konzolna app c# vezbanje\bin\Debug\Mini konzolna app c# vezbanje.exe
+C:\Users\mihaj\source\repos\c#\Mini konzolna app c# vezbanje\Mini konzolna app c# vezbanje\bin\Debug\Mini konzolna app c# vezbanje.pdb
+C:\Users\mihaj\source\repos\c#\Mini konzolna app c# vezbanje\Mini konzolna app c# vezbanje\obj\Debug\Mini konzolna app c# vezbanje.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Mini konzolna app c# vezbanje\Mini konzolna app c# vezbanje\obj\Debug\Mini konzolna app c# vezbanje.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Mini konzolna app c# vezbanje\Mini konzolna app c# vezbanje\obj\Debug\Mini konzolna app c# vezbanje.exe
+C:\Users\mihaj\source\repos\c#\Mini konzolna app c# vezbanje\Mini konzolna app c# vezbanje\obj\Debug\Mini konzolna app c# vezbanje.pdb

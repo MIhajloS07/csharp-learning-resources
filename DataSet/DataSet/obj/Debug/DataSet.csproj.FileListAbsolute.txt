@@ -1,0 +1,8 @@
+E:\VISUAL STUDIO\c#\DataSet\DataSet\obj\Debug\DataSet.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c#\DataSet\DataSet\obj\Debug\DataSet.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c#\DataSet\DataSet\bin\Debug\DataSet.exe.config
+E:\VISUAL STUDIO\c#\DataSet\DataSet\bin\Debug\DataSet.exe
+E:\VISUAL STUDIO\c#\DataSet\DataSet\bin\Debug\DataSet.pdb
+E:\VISUAL STUDIO\c#\DataSet\DataSet\obj\Debug\DataSet.exe
+E:\VISUAL STUDIO\c#\DataSet\DataSet\obj\Debug\DataSet.pdb
+E:\VISUAL STUDIO\c#\DataSet\DataSet\obj\Debug\DataSet.exe.config

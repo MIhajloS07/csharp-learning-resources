@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet genericka kolekcija", "HashSet genericka kolekcija\HashSet genericka kolekcija.csproj", "{28D1EE24-1AAB-4A10-A3F5-087637835A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D1EE24-1AAB-4A10-A3F5-087637835A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D1EE24-1AAB-4A10-A3F5-087637835A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D1EE24-1AAB-4A10-A3F5-087637835A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D1EE24-1AAB-4A10-A3F5-087637835A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B548860-9EE1-48CC-B3EB-0CE6CA2D3FB7}
+	EndGlobalSection
+EndGlobal

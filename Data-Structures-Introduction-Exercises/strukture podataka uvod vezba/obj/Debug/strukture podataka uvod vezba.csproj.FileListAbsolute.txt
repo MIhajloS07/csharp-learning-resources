@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\strukture podataka uvod vezba\strukture podataka uvod vezba\bin\Debug\strukture podataka uvod vezba.exe.config
+C:\Users\mihaj\source\repos\c#\strukture podataka uvod vezba\strukture podataka uvod vezba\bin\Debug\strukture podataka uvod vezba.exe
+C:\Users\mihaj\source\repos\c#\strukture podataka uvod vezba\strukture podataka uvod vezba\bin\Debug\strukture podataka uvod vezba.pdb
+C:\Users\mihaj\source\repos\c#\strukture podataka uvod vezba\strukture podataka uvod vezba\obj\Debug\strukture podataka uvod vezba.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\strukture podataka uvod vezba\strukture podataka uvod vezba\obj\Debug\strukture podataka uvod vezba.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\strukture podataka uvod vezba\strukture podataka uvod vezba\obj\Debug\strukture podataka uvod vezba.exe
+C:\Users\mihaj\source\repos\c#\strukture podataka uvod vezba\strukture podataka uvod vezba\obj\Debug\strukture podataka uvod vezba.pdb

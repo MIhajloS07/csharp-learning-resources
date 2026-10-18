@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Genericke konstukcije\Genericke konstukcije\obj\Debug\Genericke konstukcije.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Genericke konstukcije\Genericke konstukcije\obj\Debug\Genericke konstukcije.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Genericke konstukcije\Genericke konstukcije\bin\Debug\Genericke konstukcije.exe.config
+C:\Users\mihaj\source\repos\c#\Genericke konstukcije\Genericke konstukcije\bin\Debug\Genericke konstukcije.exe
+C:\Users\mihaj\source\repos\c#\Genericke konstukcije\Genericke konstukcije\bin\Debug\Genericke konstukcije.pdb
+C:\Users\mihaj\source\repos\c#\Genericke konstukcije\Genericke konstukcije\obj\Debug\Genericke konstukcije.exe
+C:\Users\mihaj\source\repos\c#\Genericke konstukcije\Genericke konstukcije\obj\Debug\Genericke konstukcije.pdb

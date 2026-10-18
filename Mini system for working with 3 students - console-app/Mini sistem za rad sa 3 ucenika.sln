@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini sistem za rad sa 3 ucenika", "Mini sistem za rad sa 3 ucenika\Mini sistem za rad sa 3 ucenika.csproj", "{77FF2FD5-7226-40A6-9E32-02613CF0BA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77FF2FD5-7226-40A6-9E32-02613CF0BA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FF2FD5-7226-40A6-9E32-02613CF0BA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FF2FD5-7226-40A6-9E32-02613CF0BA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FF2FD5-7226-40A6-9E32-02613CF0BA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228E7F07-95B4-4976-9F74-F5A1A2C18295}
+	EndGlobalSection
+EndGlobal

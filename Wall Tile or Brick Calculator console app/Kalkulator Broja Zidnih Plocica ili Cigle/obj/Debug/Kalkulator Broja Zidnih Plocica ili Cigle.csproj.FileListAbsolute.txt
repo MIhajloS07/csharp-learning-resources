@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Kalkulator Broja Zidnih Plocica ili Cigle\Kalkulator Broja Zidnih Plocica ili Cigle\bin\Debug\Kalkulator Broja Zidnih Plocica ili Cigle.exe.config
+C:\Users\mihaj\source\repos\c#\Kalkulator Broja Zidnih Plocica ili Cigle\Kalkulator Broja Zidnih Plocica ili Cigle\bin\Debug\Kalkulator Broja Zidnih Plocica ili Cigle.exe
+C:\Users\mihaj\source\repos\c#\Kalkulator Broja Zidnih Plocica ili Cigle\Kalkulator Broja Zidnih Plocica ili Cigle\bin\Debug\Kalkulator Broja Zidnih Plocica ili Cigle.pdb
+C:\Users\mihaj\source\repos\c#\Kalkulator Broja Zidnih Plocica ili Cigle\Kalkulator Broja Zidnih Plocica ili Cigle\obj\Debug\Kalkulator Broja Zidnih Plocica ili Cigle.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Kalkulator Broja Zidnih Plocica ili Cigle\Kalkulator Broja Zidnih Plocica ili Cigle\obj\Debug\Kalkulator Broja Zidnih Plocica ili Cigle.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Kalkulator Broja Zidnih Plocica ili Cigle\Kalkulator Broja Zidnih Plocica ili Cigle\obj\Debug\Kalkulator Broja Zidnih Plocica ili Cigle.exe
+C:\Users\mihaj\source\repos\c#\Kalkulator Broja Zidnih Plocica ili Cigle\Kalkulator Broja Zidnih Plocica ili Cigle\obj\Debug\Kalkulator Broja Zidnih Plocica ili Cigle.pdb

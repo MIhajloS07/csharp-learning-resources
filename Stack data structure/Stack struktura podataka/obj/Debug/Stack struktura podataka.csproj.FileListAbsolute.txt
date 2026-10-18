@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Stack struktura podataka\Stack struktura podataka\bin\Debug\Stack struktura podataka.exe.config
+C:\Users\mihaj\source\repos\c#\Stack struktura podataka\Stack struktura podataka\bin\Debug\Stack struktura podataka.exe
+C:\Users\mihaj\source\repos\c#\Stack struktura podataka\Stack struktura podataka\bin\Debug\Stack struktura podataka.pdb
+C:\Users\mihaj\source\repos\c#\Stack struktura podataka\Stack struktura podataka\obj\Debug\Stack struktura podataka.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Stack struktura podataka\Stack struktura podataka\obj\Debug\Stack struktura podataka.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Stack struktura podataka\Stack struktura podataka\obj\Debug\Stack struktura podataka.exe
+C:\Users\mihaj\source\repos\c#\Stack struktura podataka\Stack struktura podataka\obj\Debug\Stack struktura podataka.pdb

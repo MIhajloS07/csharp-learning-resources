@@ -1,0 +1,6 @@
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\KLASE\obj\Debug\KLASE.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\KLASE\obj\Debug\KLASE.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\KLASE\bin\Debug\KLASE.dll
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\KLASE\bin\Debug\KLASE.pdb
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\KLASE\obj\Debug\KLASE.dll
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\KLASE\obj\Debug\KLASE.pdb

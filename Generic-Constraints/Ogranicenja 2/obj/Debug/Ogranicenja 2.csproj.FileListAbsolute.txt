@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Ogranicenja 2\Ogranicenja 2\bin\Debug\Ogranicenja 2.exe.config
+C:\Users\mihaj\source\repos\c#\Ogranicenja 2\Ogranicenja 2\bin\Debug\Ogranicenja 2.exe
+C:\Users\mihaj\source\repos\c#\Ogranicenja 2\Ogranicenja 2\bin\Debug\Ogranicenja 2.pdb
+C:\Users\mihaj\source\repos\c#\Ogranicenja 2\Ogranicenja 2\obj\Debug\Ogranicenja 2.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Ogranicenja 2\Ogranicenja 2\obj\Debug\Ogranicenja 2.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Ogranicenja 2\Ogranicenja 2\obj\Debug\Ogranicenja 2.exe
+C:\Users\mihaj\source\repos\c#\Ogranicenja 2\Ogranicenja 2\obj\Debug\Ogranicenja 2.pdb

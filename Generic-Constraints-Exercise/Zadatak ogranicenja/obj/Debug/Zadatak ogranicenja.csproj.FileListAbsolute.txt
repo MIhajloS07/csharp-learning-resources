@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Zadatak ogranicenja\Zadatak ogranicenja\obj\Debug\Zadatak ogranicenja.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Zadatak ogranicenja\Zadatak ogranicenja\obj\Debug\Zadatak ogranicenja.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Zadatak ogranicenja\Zadatak ogranicenja\bin\Debug\Zadatak ogranicenja.exe.config
+C:\Users\mihaj\source\repos\c#\Zadatak ogranicenja\Zadatak ogranicenja\bin\Debug\Zadatak ogranicenja.exe
+C:\Users\mihaj\source\repos\c#\Zadatak ogranicenja\Zadatak ogranicenja\bin\Debug\Zadatak ogranicenja.pdb
+C:\Users\mihaj\source\repos\c#\Zadatak ogranicenja\Zadatak ogranicenja\obj\Debug\Zadatak ogranicenja.exe
+C:\Users\mihaj\source\repos\c#\Zadatak ogranicenja\Zadatak ogranicenja\obj\Debug\Zadatak ogranicenja.pdb

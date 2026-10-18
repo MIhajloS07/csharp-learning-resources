@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihaj\\source\\repos\\c#\\Parcijalne klawe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE080021-CCD2-49CC-BD0E-1628BE0E228B}|Parcijalne klawe\\Parcijalne klase.csproj|c:\\users\\mihaj\\source\\repos\\c#\\parcijalne klawe\\parcijalne klawe\\pravougli1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE080021-CCD2-49CC-BD0E-1628BE0E228B}|Parcijalne klawe\\Parcijalne klase.csproj|solutionrelative:parcijalne klawe\\pravougli1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE080021-CCD2-49CC-BD0E-1628BE0E228B}|Parcijalne klawe\\Parcijalne klase.csproj|c:\\users\\mihaj\\source\\repos\\c#\\parcijalne klawe\\parcijalne klawe\\pravougli2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE080021-CCD2-49CC-BD0E-1628BE0E228B}|Parcijalne klawe\\Parcijalne klase.csproj|solutionrelative:parcijalne klawe\\pravougli2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE080021-CCD2-49CC-BD0E-1628BE0E228B}|Parcijalne klawe\\Parcijalne klawe.csproj|c:\\users\\mihaj\\source\\repos\\c#\\parcijalne klawe\\parcijalne klawe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE080021-CCD2-49CC-BD0E-1628BE0E228B}|Parcijalne klawe\\Parcijalne klawe.csproj|solutionrelative:parcijalne klawe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pravougli2.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\source\\repos\\c#\\Parcijalne klawe\\Parcijalne klawe\\pravougli2.cs",
+              "RelativeDocumentMoniker": "Parcijalne klawe\\pravougli2.cs",
+              "ToolTip": "C:\\Users\\mihaj\\source\\repos\\c#\\Parcijalne klawe\\Parcijalne klawe\\pravougli2.cs",
+              "RelativeToolTip": "Parcijalne klawe\\pravougli2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:07:34.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pravougli1.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\source\\repos\\c#\\Parcijalne klawe\\Parcijalne klawe\\Pravougli1.cs",
+              "RelativeDocumentMoniker": "Parcijalne klawe\\Pravougli1.cs",
+              "ToolTip": "C:\\Users\\mihaj\\source\\repos\\c#\\Parcijalne klawe\\Parcijalne klawe\\Pravougli1.cs",
+              "RelativeToolTip": "Parcijalne klawe\\Pravougli1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:04:17.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\source\\repos\\c#\\Parcijalne klawe\\Parcijalne klawe\\Program.cs",
+              "RelativeDocumentMoniker": "Parcijalne klawe\\Program.cs",
+              "ToolTip": "C:\\Users\\mihaj\\source\\repos\\c#\\Parcijalne klawe\\Parcijalne klawe\\Program.cs",
+              "RelativeToolTip": "Parcijalne klawe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:03:46.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Lambda izrazi\Lambda izrazi\obj\Debug\Lambda izrazi.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Lambda izrazi\Lambda izrazi\obj\Debug\Lambda izrazi.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Lambda izrazi\Lambda izrazi\bin\Debug\Lambda izrazi.exe.config
+C:\Users\mihaj\source\repos\c#\Lambda izrazi\Lambda izrazi\bin\Debug\Lambda izrazi.exe
+C:\Users\mihaj\source\repos\c#\Lambda izrazi\Lambda izrazi\bin\Debug\Lambda izrazi.pdb
+C:\Users\mihaj\source\repos\c#\Lambda izrazi\Lambda izrazi\obj\Debug\Lambda izrazi.exe
+C:\Users\mihaj\source\repos\c#\Lambda izrazi\Lambda izrazi\obj\Debug\Lambda izrazi.pdb

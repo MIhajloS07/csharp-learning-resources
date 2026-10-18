@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Ogranicenje za tipske parametre\Ogranicenje za tipske parametre\bin\Debug\Ogranicenje za tipske parametre.exe.config
+C:\Users\mihaj\source\repos\c#\Ogranicenje za tipske parametre\Ogranicenje za tipske parametre\bin\Debug\Ogranicenje za tipske parametre.exe
+C:\Users\mihaj\source\repos\c#\Ogranicenje za tipske parametre\Ogranicenje za tipske parametre\bin\Debug\Ogranicenje za tipske parametre.pdb
+C:\Users\mihaj\source\repos\c#\Ogranicenje za tipske parametre\Ogranicenje za tipske parametre\obj\Debug\Ogranicenje za tipske parametre.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Ogranicenje za tipske parametre\Ogranicenje za tipske parametre\obj\Debug\Ogranicenje za tipske parametre.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Ogranicenje za tipske parametre\Ogranicenje za tipske parametre\obj\Debug\Ogranicenje za tipske parametre.exe
+C:\Users\mihaj\source\repos\c#\Ogranicenje za tipske parametre\Ogranicenje za tipske parametre\obj\Debug\Ogranicenje za tipske parametre.pdb

@@ -1,0 +1,10 @@
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\bin\Debug\Eksterni (visefajlni) namespace.exe.config
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\bin\Debug\Eksterni (visefajlni) namespace.exe
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\bin\Debug\Eksterni (visefajlni) namespace.pdb
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\obj\Debug\Eksterni (visefajlni) namespace.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\obj\Debug\Eksterni (visefajlni) namespace.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\obj\Debug\Eksterni (visefajlni) namespace.exe
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\obj\Debug\Eksterni (visefajlni) namespace.pdb
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\bin\Debug\ustom_Namespace.dll
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\bin\Debug\ustom_Namespace.pdb
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\Eksterni (visefajlni) namespace\obj\Debug\Eksterni.9A587DF0.Up2Date

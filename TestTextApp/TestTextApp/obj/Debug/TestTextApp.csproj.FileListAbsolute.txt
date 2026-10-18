@@ -1,0 +1,10 @@
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\bin\Debug\TestTextApp.exe.config
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\bin\Debug\TestTextApp.exe
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\bin\Debug\TestTextApp.pdb
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\obj\Debug\TestTextApp.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\obj\Debug\TestTextApp.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\obj\Debug\TestTextApp.exe
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\obj\Debug\TestTextApp.pdb
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\bin\Debug\BibliotekaZaTekst.dll
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\bin\Debug\BibliotekaZaTekst.pdb
+C:\Users\mihaj\source\repos\c#\TestTextApp\TestTextApp\obj\Debug\TestText.83CFFC48.Up2Date

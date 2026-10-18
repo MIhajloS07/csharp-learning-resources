@@ -1,0 +1,6 @@
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\ustom_Namespace\bin\Debug\ustom_Namespace.dll
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\ustom_Namespace\bin\Debug\ustom_Namespace.pdb
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\ustom_Namespace\obj\Debug\Custom_Namespace.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\ustom_Namespace\obj\Debug\Custom_Namespace.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\ustom_Namespace\obj\Debug\ustom_Namespace.dll
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\ustom_Namespace\obj\Debug\ustom_Namespace.pdb

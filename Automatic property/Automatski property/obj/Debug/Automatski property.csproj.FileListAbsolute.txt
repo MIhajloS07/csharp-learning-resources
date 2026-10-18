@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Automatski property\Automatski property\bin\Debug\Automatski property.exe.config
+C:\Users\mihaj\source\repos\c#\Automatski property\Automatski property\bin\Debug\Automatski property.exe
+C:\Users\mihaj\source\repos\c#\Automatski property\Automatski property\bin\Debug\Automatski property.pdb
+C:\Users\mihaj\source\repos\c#\Automatski property\Automatski property\obj\Debug\Automatski property.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Automatski property\Automatski property\obj\Debug\Automatski property.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Automatski property\Automatski property\obj\Debug\Automatski property.exe
+C:\Users\mihaj\source\repos\c#\Automatski property\Automatski property\obj\Debug\Automatski property.pdb

@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Nasledjivanje (Inheritance)\Nasledjivanje (Inheritance)\bin\Debug\Nasledjivanje (Inheritance).exe.config
+C:\Users\mihaj\source\repos\c#\Nasledjivanje (Inheritance)\Nasledjivanje (Inheritance)\bin\Debug\Nasledjivanje (Inheritance).exe
+C:\Users\mihaj\source\repos\c#\Nasledjivanje (Inheritance)\Nasledjivanje (Inheritance)\bin\Debug\Nasledjivanje (Inheritance).pdb
+C:\Users\mihaj\source\repos\c#\Nasledjivanje (Inheritance)\Nasledjivanje (Inheritance)\obj\Debug\Nasledjivanje (Inheritance).csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Nasledjivanje (Inheritance)\Nasledjivanje (Inheritance)\obj\Debug\Nasledjivanje (Inheritance).csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Nasledjivanje (Inheritance)\Nasledjivanje (Inheritance)\obj\Debug\Nasledjivanje (Inheritance).exe
+C:\Users\mihaj\source\repos\c#\Nasledjivanje (Inheritance)\Nasledjivanje (Inheritance)\obj\Debug\Nasledjivanje (Inheritance).pdb

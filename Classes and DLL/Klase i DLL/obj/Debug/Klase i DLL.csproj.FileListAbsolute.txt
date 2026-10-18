@@ -1,0 +1,10 @@
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\obj\Debug\Klase i DLL.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\obj\Debug\Klase i DLL.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\bin\Debug\Klase i DLL.exe.config
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\bin\Debug\Klase i DLL.exe
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\bin\Debug\Klase i DLL.pdb
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\bin\Debug\DynamicDLL.dll
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\bin\Debug\DynamicDLL.pdb
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\obj\Debug\Klase i .4DBA2E42.Up2Date
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\obj\Debug\Klase i DLL.exe
+C:\Users\mihaj\source\repos\c#\Klase i DLL\Klase i DLL\obj\Debug\Klase i DLL.pdb

@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Konstruktor kopije c#\Konstruktor kopije c#\bin\Debug\Konstruktor kopije c#.exe.config
+C:\Users\mihaj\source\repos\c#\Konstruktor kopije c#\Konstruktor kopije c#\bin\Debug\Konstruktor kopije c#.exe
+C:\Users\mihaj\source\repos\c#\Konstruktor kopije c#\Konstruktor kopije c#\bin\Debug\Konstruktor kopije c#.pdb
+C:\Users\mihaj\source\repos\c#\Konstruktor kopije c#\Konstruktor kopije c#\obj\Debug\Konstruktor kopije c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Konstruktor kopije c#\Konstruktor kopije c#\obj\Debug\Konstruktor kopije c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Konstruktor kopije c#\Konstruktor kopije c#\obj\Debug\Konstruktor kopije c#.exe
+C:\Users\mihaj\source\repos\c#\Konstruktor kopije c#\Konstruktor kopije c#\obj\Debug\Konstruktor kopije c#.pdb

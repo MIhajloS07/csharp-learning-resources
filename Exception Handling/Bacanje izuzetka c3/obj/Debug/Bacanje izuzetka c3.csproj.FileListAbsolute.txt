@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Bacanje izuzetka c3\Bacanje izuzetka c3\obj\Debug\Bacanje izuzetka c3.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Bacanje izuzetka c3\Bacanje izuzetka c3\obj\Debug\Bacanje izuzetka c3.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Bacanje izuzetka c3\Bacanje izuzetka c3\bin\Debug\Bacanje izuzetka c3.exe.config
+C:\Users\mihaj\source\repos\c#\Bacanje izuzetka c3\Bacanje izuzetka c3\bin\Debug\Bacanje izuzetka c3.exe
+C:\Users\mihaj\source\repos\c#\Bacanje izuzetka c3\Bacanje izuzetka c3\bin\Debug\Bacanje izuzetka c3.pdb
+C:\Users\mihaj\source\repos\c#\Bacanje izuzetka c3\Bacanje izuzetka c3\obj\Debug\Bacanje izuzetka c3.exe
+C:\Users\mihaj\source\repos\c#\Bacanje izuzetka c3\Bacanje izuzetka c3\obj\Debug\Bacanje izuzetka c3.pdb

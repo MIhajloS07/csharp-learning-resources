@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Operator overloading c#\Operator overloading c#\obj\Debug\Operator overloading c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Operator overloading c#\Operator overloading c#\obj\Debug\Operator overloading c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Operator overloading c#\Operator overloading c#\bin\Debug\Operator overloading c#.exe.config
+C:\Users\mihaj\source\repos\c#\Operator overloading c#\Operator overloading c#\bin\Debug\Operator overloading c#.exe
+C:\Users\mihaj\source\repos\c#\Operator overloading c#\Operator overloading c#\bin\Debug\Operator overloading c#.pdb
+C:\Users\mihaj\source\repos\c#\Operator overloading c#\Operator overloading c#\obj\Debug\Operator overloading c#.exe
+C:\Users\mihaj\source\repos\c#\Operator overloading c#\Operator overloading c#\obj\Debug\Operator overloading c#.pdb

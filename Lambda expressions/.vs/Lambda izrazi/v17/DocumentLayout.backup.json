@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihaj\\source\\repos\\c#\\Lambda izrazi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59DB81C4-8BE5-4C1C-84C2-649766A23A71}|Lambda izrazi\\Lambda izrazi.csproj|c:\\users\\mihaj\\source\\repos\\c#\\lambda izrazi\\lambda izrazi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DB81C4-8BE5-4C1C-84C2-649766A23A71}|Lambda izrazi\\Lambda izrazi.csproj|solutionrelative:lambda izrazi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DB81C4-8BE5-4C1C-84C2-649766A23A71}|Lambda izrazi\\Lambda izrazi.csproj|c:\\users\\mihaj\\source\\repos\\c#\\lambda izrazi\\lambda izrazi\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DB81C4-8BE5-4C1C-84C2-649766A23A71}|Lambda izrazi\\Lambda izrazi.csproj|solutionrelative:lambda izrazi\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\source\\repos\\c#\\Lambda izrazi\\Lambda izrazi\\Osoba.cs",
+              "RelativeDocumentMoniker": "Lambda izrazi\\Osoba.cs",
+              "ToolTip": "C:\\Users\\mihaj\\source\\repos\\c#\\Lambda izrazi\\Lambda izrazi\\Osoba.cs",
+              "RelativeToolTip": "Lambda izrazi\\Osoba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T11:58:42.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\source\\repos\\c#\\Lambda izrazi\\Lambda izrazi\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda izrazi\\Program.cs",
+              "ToolTip": "C:\\Users\\mihaj\\source\\repos\\c#\\Lambda izrazi\\Lambda izrazi\\Program.cs",
+              "RelativeToolTip": "Lambda izrazi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T11:45:49.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

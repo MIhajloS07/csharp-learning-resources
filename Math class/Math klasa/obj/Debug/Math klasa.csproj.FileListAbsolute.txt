@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\Math klasa\Math klasa\bin\Debug\Math klasa.exe.config
+C:\Users\mihaj\source\repos\Math klasa\Math klasa\bin\Debug\Math klasa.exe
+C:\Users\mihaj\source\repos\Math klasa\Math klasa\bin\Debug\Math klasa.pdb
+C:\Users\mihaj\source\repos\Math klasa\Math klasa\obj\Debug\Math klasa.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\Math klasa\Math klasa\obj\Debug\Math klasa.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\Math klasa\Math klasa\obj\Debug\Math klasa.exe
+C:\Users\mihaj\source\repos\Math klasa\Math klasa\obj\Debug\Math klasa.pdb

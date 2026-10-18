@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Liste\Liste\bin\Debug\Liste.exe.config
+C:\Users\mihaj\source\repos\c#\Liste\Liste\bin\Debug\Liste.exe
+C:\Users\mihaj\source\repos\c#\Liste\Liste\bin\Debug\Liste.pdb
+C:\Users\mihaj\source\repos\c#\Liste\Liste\obj\Debug\Liste.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Liste\Liste\obj\Debug\Liste.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Liste\Liste\obj\Debug\Liste.exe
+C:\Users\mihaj\source\repos\c#\Liste\Liste\obj\Debug\Liste.pdb

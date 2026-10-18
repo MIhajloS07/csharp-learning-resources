@@ -1,0 +1,10 @@
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\bin\Debug\Biblioteka — knjige i mediji.exe.config
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\bin\Debug\Biblioteka — knjige i mediji.exe
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\bin\Debug\Biblioteka — knjige i mediji.pdb
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\obj\Debug\Biblioteka — knjige i mediji.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\obj\Debug\Biblioteka — knjige i mediji.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\obj\Debug\Biblioteka — knjige i mediji.exe
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\obj\Debug\Biblioteka — knjige i mediji.pdb
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\bin\Debug\KLASE.dll
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\bin\Debug\KLASE.pdb
+C:\Users\mihaj\source\repos\c#\Biblioteka — knjige i mediji\Biblioteka — knjige i mediji\obj\Debug\Bibliote.7ACB4040.Up2Date

@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Prenos podataka po vrednosti i referenci\Prenos podataka po vrednosti i referenci\bin\Debug\Prenos podataka po vrednosti i referenci.exe.config
+C:\Users\mihaj\source\repos\c#\Prenos podataka po vrednosti i referenci\Prenos podataka po vrednosti i referenci\bin\Debug\Prenos podataka po vrednosti i referenci.exe
+C:\Users\mihaj\source\repos\c#\Prenos podataka po vrednosti i referenci\Prenos podataka po vrednosti i referenci\bin\Debug\Prenos podataka po vrednosti i referenci.pdb
+C:\Users\mihaj\source\repos\c#\Prenos podataka po vrednosti i referenci\Prenos podataka po vrednosti i referenci\obj\Debug\Prenos podataka po vrednosti i referenci.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Prenos podataka po vrednosti i referenci\Prenos podataka po vrednosti i referenci\obj\Debug\Prenos podataka po vrednosti i referenci.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Prenos podataka po vrednosti i referenci\Prenos podataka po vrednosti i referenci\obj\Debug\Prenos podataka po vrednosti i referenci.exe
+C:\Users\mihaj\source\repos\c#\Prenos podataka po vrednosti i referenci\Prenos podataka po vrednosti i referenci\obj\Debug\Prenos podataka po vrednosti i referenci.pdb

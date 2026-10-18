@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihaj\\source\\repos\\c#\\Method Overloading c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57AA852C-A613-4866-AA20-29E5D4692926}|Method Overloading c#\\Method Overloading c#.csproj|c:\\users\\mihaj\\source\\repos\\c#\\method overloading c#\\method overloading c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AA852C-A613-4866-AA20-29E5D4692926}|Method Overloading c#\\Method Overloading c#.csproj|solutionrelative:method overloading c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\source\\repos\\c#\\Method Overloading c#\\Method Overloading c#\\Program.cs",
+              "RelativeDocumentMoniker": "Method Overloading c#\\Program.cs",
+              "ToolTip": "C:\\Users\\mihaj\\source\\repos\\c#\\Method Overloading c#\\Method Overloading c#\\Program.cs",
+              "RelativeToolTip": "Method Overloading c#\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:58:51.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

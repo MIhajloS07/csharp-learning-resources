@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Visedimenzionalni nizovi\Visedimenzionalni nizovi\bin\Debug\Visedimenzionalni nizovi.exe.config
+C:\Users\mihaj\source\repos\c#\Visedimenzionalni nizovi\Visedimenzionalni nizovi\bin\Debug\Visedimenzionalni nizovi.exe
+C:\Users\mihaj\source\repos\c#\Visedimenzionalni nizovi\Visedimenzionalni nizovi\bin\Debug\Visedimenzionalni nizovi.pdb
+C:\Users\mihaj\source\repos\c#\Visedimenzionalni nizovi\Visedimenzionalni nizovi\obj\Debug\Visedimenzionalni nizovi.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Visedimenzionalni nizovi\Visedimenzionalni nizovi\obj\Debug\Visedimenzionalni nizovi.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Visedimenzionalni nizovi\Visedimenzionalni nizovi\obj\Debug\Visedimenzionalni nizovi.exe
+C:\Users\mihaj\source\repos\c#\Visedimenzionalni nizovi\Visedimenzionalni nizovi\obj\Debug\Visedimenzionalni nizovi.pdb

@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Genericki delegati\Genericki delegati\bin\Debug\Genericki delegati.exe.config
+C:\Users\mihaj\source\repos\c#\Genericki delegati\Genericki delegati\bin\Debug\Genericki delegati.exe
+C:\Users\mihaj\source\repos\c#\Genericki delegati\Genericki delegati\bin\Debug\Genericki delegati.pdb
+C:\Users\mihaj\source\repos\c#\Genericki delegati\Genericki delegati\obj\Debug\Genericki delegati.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Genericki delegati\Genericki delegati\obj\Debug\Genericki delegati.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Genericki delegati\Genericki delegati\obj\Debug\Genericki delegati.exe
+C:\Users\mihaj\source\repos\c#\Genericki delegati\Genericki delegati\obj\Debug\Genericki delegati.pdb

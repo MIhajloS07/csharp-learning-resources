@@ -1,0 +1,10 @@
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\bin\Debug\Vezbanje.exe.config
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\bin\Debug\Vezbanje.exe
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\bin\Debug\Vezbanje.pdb
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\obj\Debug\Vezbanje.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\obj\Debug\Vezbanje.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\obj\Debug\Vezbanje.exe
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\obj\Debug\Vezbanje.pdb
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\bin\Debug\ExternalLibrary.dll
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\bin\Debug\ExternalLibrary.pdb
+C:\Users\mihaj\source\repos\c#\Vezbanje\Vezbanje\obj\Debug\Vezbanje.csproj.Up2Date

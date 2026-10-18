@@ -1,0 +1,8 @@
+E:\VISUAL STUDIO\c#\DataTable\DataTable\bin\Debug\DataTable.exe.config
+E:\VISUAL STUDIO\c#\DataTable\DataTable\bin\Debug\DataTable.exe
+E:\VISUAL STUDIO\c#\DataTable\DataTable\bin\Debug\DataTable.pdb
+E:\VISUAL STUDIO\c#\DataTable\DataTable\obj\Debug\DataTable.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c#\DataTable\DataTable\obj\Debug\DataTable.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c#\DataTable\DataTable\obj\Debug\DataTable.exe
+E:\VISUAL STUDIO\c#\DataTable\DataTable\obj\Debug\DataTable.pdb
+E:\VISUAL STUDIO\c#\DataTable\DataTable\obj\Debug\DataTable.exe.config

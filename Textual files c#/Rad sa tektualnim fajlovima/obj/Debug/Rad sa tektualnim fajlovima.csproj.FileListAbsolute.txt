@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Rad sa tektualnim fajlovima\Rad sa tektualnim fajlovima\bin\Debug\Rad sa tektualnim fajlovima.exe.config
+C:\Users\mihaj\source\repos\c#\Rad sa tektualnim fajlovima\Rad sa tektualnim fajlovima\bin\Debug\Rad sa tektualnim fajlovima.exe
+C:\Users\mihaj\source\repos\c#\Rad sa tektualnim fajlovima\Rad sa tektualnim fajlovima\bin\Debug\Rad sa tektualnim fajlovima.pdb
+C:\Users\mihaj\source\repos\c#\Rad sa tektualnim fajlovima\Rad sa tektualnim fajlovima\obj\Debug\Rad sa tektualnim fajlovima.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Rad sa tektualnim fajlovima\Rad sa tektualnim fajlovima\obj\Debug\Rad sa tektualnim fajlovima.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Rad sa tektualnim fajlovima\Rad sa tektualnim fajlovima\obj\Debug\Rad sa tektualnim fajlovima.exe
+C:\Users\mihaj\source\repos\c#\Rad sa tektualnim fajlovima\Rad sa tektualnim fajlovima\obj\Debug\Rad sa tektualnim fajlovima.pdb

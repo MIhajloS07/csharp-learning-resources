@@ -1,0 +1,8 @@
+E:\VISUAL STUDIO\c#\konekcioni string MSSQL\konekcioni string MSSQL\bin\Debug\konekcioni string MSSQL.exe.config
+E:\VISUAL STUDIO\c#\konekcioni string MSSQL\konekcioni string MSSQL\bin\Debug\konekcioni string MSSQL.exe
+E:\VISUAL STUDIO\c#\konekcioni string MSSQL\konekcioni string MSSQL\bin\Debug\konekcioni string MSSQL.pdb
+E:\VISUAL STUDIO\c#\konekcioni string MSSQL\konekcioni string MSSQL\obj\Debug\konekcioni string MSSQL.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c#\konekcioni string MSSQL\konekcioni string MSSQL\obj\Debug\konekcioni string MSSQL.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c#\konekcioni string MSSQL\konekcioni string MSSQL\obj\Debug\konekcioni string MSSQL.exe
+E:\VISUAL STUDIO\c#\konekcioni string MSSQL\konekcioni string MSSQL\obj\Debug\konekcioni string MSSQL.pdb
+E:\VISUAL STUDIO\c#\konekcioni string MSSQL\konekcioni string MSSQL\obj\Debug\konekcioni string MSSQL.exe.config

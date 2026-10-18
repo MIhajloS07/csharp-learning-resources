@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Rad sa klasama\Rad sa klasama\bin\Debug\Rad sa klasama.exe.config
+C:\Users\mihaj\source\repos\c#\Rad sa klasama\Rad sa klasama\bin\Debug\Rad sa klasama.exe
+C:\Users\mihaj\source\repos\c#\Rad sa klasama\Rad sa klasama\bin\Debug\Rad sa klasama.pdb
+C:\Users\mihaj\source\repos\c#\Rad sa klasama\Rad sa klasama\obj\Debug\Rad sa klasama.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Rad sa klasama\Rad sa klasama\obj\Debug\Rad sa klasama.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Rad sa klasama\Rad sa klasama\obj\Debug\Rad sa klasama.exe
+C:\Users\mihaj\source\repos\c#\Rad sa klasama\Rad sa klasama\obj\Debug\Rad sa klasama.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericki delegati", "Genericki delegati\Genericki delegati.csproj", "{8D760AD8-B661-43BA-BE82-E44B5E6187F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D760AD8-B661-43BA-BE82-E44B5E6187F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D760AD8-B661-43BA-BE82-E44B5E6187F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D760AD8-B661-43BA-BE82-E44B5E6187F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D760AD8-B661-43BA-BE82-E44B5E6187F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE36627-927E-4FED-8AF2-4F10B71AB710}
+	EndGlobalSection
+EndGlobal

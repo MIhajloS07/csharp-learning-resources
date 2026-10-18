@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Rad sa stringovima\Rad sa stringovima\obj\Debug\Rad sa stringovima.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Rad sa stringovima\Rad sa stringovima\obj\Debug\Rad sa stringovima.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Rad sa stringovima\Rad sa stringovima\bin\Debug\Rad sa stringovima.exe.config
+C:\Users\mihaj\source\repos\c#\Rad sa stringovima\Rad sa stringovima\bin\Debug\Rad sa stringovima.exe
+C:\Users\mihaj\source\repos\c#\Rad sa stringovima\Rad sa stringovima\bin\Debug\Rad sa stringovima.pdb
+C:\Users\mihaj\source\repos\c#\Rad sa stringovima\Rad sa stringovima\obj\Debug\Rad sa stringovima.exe
+C:\Users\mihaj\source\repos\c#\Rad sa stringovima\Rad sa stringovima\obj\Debug\Rad sa stringovima.pdb

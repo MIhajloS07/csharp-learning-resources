@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Genericke liste\Genericke liste\bin\Debug\Genericke liste.exe.config
+C:\Users\mihaj\source\repos\c#\Genericke liste\Genericke liste\bin\Debug\Genericke liste.exe
+C:\Users\mihaj\source\repos\c#\Genericke liste\Genericke liste\bin\Debug\Genericke liste.pdb
+C:\Users\mihaj\source\repos\c#\Genericke liste\Genericke liste\obj\Debug\Genericke liste.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Genericke liste\Genericke liste\obj\Debug\Genericke liste.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Genericke liste\Genericke liste\obj\Debug\Genericke liste.exe
+C:\Users\mihaj\source\repos\c#\Genericke liste\Genericke liste\obj\Debug\Genericke liste.pdb

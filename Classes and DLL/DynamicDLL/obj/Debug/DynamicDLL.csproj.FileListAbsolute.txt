@@ -1,0 +1,6 @@
+C:\Users\mihaj\source\repos\c#\Klase i DLL\DynamicDLL\bin\Debug\DynamicDLL.dll
+C:\Users\mihaj\source\repos\c#\Klase i DLL\DynamicDLL\bin\Debug\DynamicDLL.pdb
+C:\Users\mihaj\source\repos\c#\Klase i DLL\DynamicDLL\obj\Debug\DynamicDLL.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Klase i DLL\DynamicDLL\obj\Debug\DynamicDLL.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Klase i DLL\DynamicDLL\obj\Debug\DynamicDLL.dll
+C:\Users\mihaj\source\repos\c#\Klase i DLL\DynamicDLL\obj\Debug\DynamicDLL.pdb

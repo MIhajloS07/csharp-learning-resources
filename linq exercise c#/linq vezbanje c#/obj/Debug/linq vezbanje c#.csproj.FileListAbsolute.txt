@@ -1,0 +1,14 @@
+C:\Users\mihaj\source\repos\c#\linq vezbanje c#\linq vezbanje c#\obj\Debug\linq vezbanje c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\linq vezbanje c#\linq vezbanje c#\obj\Debug\linq vezbanje c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\linq vezbanje c#\linq vezbanje c#\bin\Debug\linq vezbanje c#.exe.config
+C:\Users\mihaj\source\repos\c#\linq vezbanje c#\linq vezbanje c#\bin\Debug\linq vezbanje c#.exe
+C:\Users\mihaj\source\repos\c#\linq vezbanje c#\linq vezbanje c#\bin\Debug\linq vezbanje c#.pdb
+C:\Users\mihaj\source\repos\c#\linq vezbanje c#\linq vezbanje c#\obj\Debug\linq vezbanje c#.exe
+C:\Users\mihaj\source\repos\c#\linq vezbanje c#\linq vezbanje c#\obj\Debug\linq vezbanje c#.pdb
+E:\VISUAL STUDIO\c#\linq vezbanje c#\linq vezbanje c#\bin\Debug\linq vezbanje c#.exe.config
+E:\VISUAL STUDIO\c#\linq vezbanje c#\linq vezbanje c#\bin\Debug\linq vezbanje c#.exe
+E:\VISUAL STUDIO\c#\linq vezbanje c#\linq vezbanje c#\bin\Debug\linq vezbanje c#.pdb
+E:\VISUAL STUDIO\c#\linq vezbanje c#\linq vezbanje c#\obj\Debug\linq vezbanje c#.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c#\linq vezbanje c#\linq vezbanje c#\obj\Debug\linq vezbanje c#.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c#\linq vezbanje c#\linq vezbanje c#\obj\Debug\linq vezbanje c#.exe
+E:\VISUAL STUDIO\c#\linq vezbanje c#\linq vezbanje c#\obj\Debug\linq vezbanje c#.pdb

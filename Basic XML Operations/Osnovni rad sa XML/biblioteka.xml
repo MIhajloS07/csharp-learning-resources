@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Root-->
+<biblioteka>
+	<!--Element-->
+	<knjige>
+		<!--Subelements-->
+		<knjiga id ="1" autorId ="1" zanrId ="2" izdavacId ="3">
+			<naziv>Romeo i julija</naziv>
+			<brojstrana>365</brojstrana>
+			<godina>1961</godina>
+		</knjiga>
+		<knjiga id ="2" autorId ="2" zanrId ="3" izdavacId ="1">
+			<naziv>Gorski vijenac</naziv>
+			<brojstrana>144</brojstrana>
+			<godina>1989</godina>
+		</knjiga>
+		<knjiga id ="3" autorId ="3" zanrId ="1" izdavacId ="2">
+			<naziv>Prvi put s ocem na jutrenje</naziv>
+			<brojstrana>200</brojstrana>
+			<godina>1998</godina>
+		</knjiga>
+	</knjige>
+	<!--Element-->
+	<autori>
+		<!--Subelements-->
+		<autor id ="1">
+			<ime>Mihajlo Madic</ime>
+			<grad>Beograd</grad>
+			<zemlja>Srbija</zemlja>
+		</autor>
+		<autor id ="2">
+			<ime>Nikola Badic</ime>
+			<grad>Novi Sad</grad>
+			<zemlja>Srbija</zemlja>
+		</autor>
+		<autor id ="3">
+			<ime>Goran Vesic</ime>
+			<grad>Subotica</grad>
+			<zemlja>Srbija</zemlja>
+		</autor>
+	</autori>
+	<!--Element-->
+	<zanrovi>
+		<!--Subelements-->
+		<zanr id="1">Lirika</zanr>
+		<zanr id="2">Epika</zanr>
+		<zanr id="3">Drama</zanr>
+	</zanrovi>
+	<!--Element-->
+	<izdavaci>
+		<!--Subelements-->
+		<izdavac id="1">
+			<naziv>Prosveta</naziv>
+			<grad>Beograd</grad>
+		</izdavac>
+		<izdavac id="2">
+			<naziv>Klett</naziv>
+			<grad>Novi sad</grad>
+		</izdavac>
+		<izdavac id="3">
+			<naziv>Gerundijum</naziv>
+			<grad>Beograd</grad>
+		</izdavac>
+	</izdavaci>
+</biblioteka>

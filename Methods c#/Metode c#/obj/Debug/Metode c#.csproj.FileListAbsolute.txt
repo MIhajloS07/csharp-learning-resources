@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Metode c#\Metode c#\bin\Debug\Metode c#.exe.config
+C:\Users\mihaj\source\repos\c#\Metode c#\Metode c#\bin\Debug\Metode c#.exe
+C:\Users\mihaj\source\repos\c#\Metode c#\Metode c#\bin\Debug\Metode c#.pdb
+C:\Users\mihaj\source\repos\c#\Metode c#\Metode c#\obj\Debug\Metode c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Metode c#\Metode c#\obj\Debug\Metode c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Metode c#\Metode c#\obj\Debug\Metode c#.exe
+C:\Users\mihaj\source\repos\c#\Metode c#\Metode c#\obj\Debug\Metode c#.pdb

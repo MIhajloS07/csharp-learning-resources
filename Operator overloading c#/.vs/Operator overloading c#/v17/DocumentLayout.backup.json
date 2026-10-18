@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihaj\\source\\repos\\c#\\Operator overloading c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8578691A-4CA6-4C00-A1BD-1EE3A2351C3D}|Operator overloading c#\\Operator overloading c#.csproj|c:\\users\\mihaj\\source\\repos\\c#\\operator overloading c#\\operator overloading c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8578691A-4CA6-4C00-A1BD-1EE3A2351C3D}|Operator overloading c#\\Operator overloading c#.csproj|solutionrelative:operator overloading c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\source\\repos\\c#\\Operator overloading c#\\Operator overloading c#\\Program.cs",
+              "RelativeDocumentMoniker": "Operator overloading c#\\Program.cs",
+              "ToolTip": "C:\\Users\\mihaj\\source\\repos\\c#\\Operator overloading c#\\Operator overloading c#\\Program.cs",
+              "RelativeToolTip": "Operator overloading c#\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:40:42.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Interni namespacer\Interni namespacer\bin\Debug\Interni namespacer.exe.config
+C:\Users\mihaj\source\repos\c#\Interni namespacer\Interni namespacer\bin\Debug\Interni namespacer.exe
+C:\Users\mihaj\source\repos\c#\Interni namespacer\Interni namespacer\bin\Debug\Interni namespacer.pdb
+C:\Users\mihaj\source\repos\c#\Interni namespacer\Interni namespacer\obj\Debug\Interni namespacer.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Interni namespacer\Interni namespacer\obj\Debug\Interni namespacer.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Interni namespacer\Interni namespacer\obj\Debug\Interni namespacer.exe
+C:\Users\mihaj\source\repos\c#\Interni namespacer\Interni namespacer\obj\Debug\Interni namespacer.pdb

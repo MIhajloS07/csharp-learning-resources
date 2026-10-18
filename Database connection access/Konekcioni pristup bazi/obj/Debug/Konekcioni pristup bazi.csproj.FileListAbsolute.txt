@@ -1,0 +1,8 @@
+E:\VISUAL STUDIO\c#\Konekcioni pristup bazi\Konekcioni pristup bazi\obj\Debug\Konekcioni pristup bazi.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c#\Konekcioni pristup bazi\Konekcioni pristup bazi\obj\Debug\Konekcioni pristup bazi.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c#\Konekcioni pristup bazi\Konekcioni pristup bazi\bin\Debug\Konekcioni pristup bazi.exe.config
+E:\VISUAL STUDIO\c#\Konekcioni pristup bazi\Konekcioni pristup bazi\bin\Debug\Konekcioni pristup bazi.exe
+E:\VISUAL STUDIO\c#\Konekcioni pristup bazi\Konekcioni pristup bazi\bin\Debug\Konekcioni pristup bazi.pdb
+E:\VISUAL STUDIO\c#\Konekcioni pristup bazi\Konekcioni pristup bazi\obj\Debug\Konekcioni pristup bazi.exe
+E:\VISUAL STUDIO\c#\Konekcioni pristup bazi\Konekcioni pristup bazi\obj\Debug\Konekcioni pristup bazi.pdb
+E:\VISUAL STUDIO\c#\Konekcioni pristup bazi\Konekcioni pristup bazi\obj\Debug\Konekcioni pristup bazi.exe.config

@@ -1,0 +1,8 @@
+E:\VISUAL STUDIO\c#\Koriscenje izuzetaka kod parametrizovanih upita\Koriscenje izuzetaka kod parametrizovanih upita\obj\Debug\Koriscenje izuzetaka kod parametrizovanih upita.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c#\Koriscenje izuzetaka kod parametrizovanih upita\Koriscenje izuzetaka kod parametrizovanih upita\obj\Debug\Koriscenje izuzetaka kod parametrizovanih upita.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c#\Koriscenje izuzetaka kod parametrizovanih upita\Koriscenje izuzetaka kod parametrizovanih upita\bin\Debug\Koriscenje izuzetaka kod parametrizovanih upita.exe.config
+E:\VISUAL STUDIO\c#\Koriscenje izuzetaka kod parametrizovanih upita\Koriscenje izuzetaka kod parametrizovanih upita\bin\Debug\Koriscenje izuzetaka kod parametrizovanih upita.exe
+E:\VISUAL STUDIO\c#\Koriscenje izuzetaka kod parametrizovanih upita\Koriscenje izuzetaka kod parametrizovanih upita\bin\Debug\Koriscenje izuzetaka kod parametrizovanih upita.pdb
+E:\VISUAL STUDIO\c#\Koriscenje izuzetaka kod parametrizovanih upita\Koriscenje izuzetaka kod parametrizovanih upita\obj\Debug\Koriscenje izuzetaka kod parametrizovanih upita.exe
+E:\VISUAL STUDIO\c#\Koriscenje izuzetaka kod parametrizovanih upita\Koriscenje izuzetaka kod parametrizovanih upita\obj\Debug\Koriscenje izuzetaka kod parametrizovanih upita.pdb
+E:\VISUAL STUDIO\c#\Koriscenje izuzetaka kod parametrizovanih upita\Koriscenje izuzetaka kod parametrizovanih upita\obj\Debug\Koriscenje izuzetaka kod parametrizovanih upita.exe.config

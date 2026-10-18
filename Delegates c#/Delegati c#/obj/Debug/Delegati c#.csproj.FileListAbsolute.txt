@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Delegati c#\Delegati c#\bin\Debug\Delegati c#.exe.config
+C:\Users\mihaj\source\repos\c#\Delegati c#\Delegati c#\bin\Debug\Delegati c#.exe
+C:\Users\mihaj\source\repos\c#\Delegati c#\Delegati c#\bin\Debug\Delegati c#.pdb
+C:\Users\mihaj\source\repos\c#\Delegati c#\Delegati c#\obj\Debug\Delegati c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Delegati c#\Delegati c#\obj\Debug\Delegati c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Delegati c#\Delegati c#\obj\Debug\Delegati c#.exe
+C:\Users\mihaj\source\repos\c#\Delegati c#\Delegati c#\obj\Debug\Delegati c#.pdb

@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\HashSet genericka kolekcija\HashSet genericka kolekcija\bin\Debug\HashSet genericka kolekcija.exe.config
+C:\Users\mihaj\source\repos\c#\HashSet genericka kolekcija\HashSet genericka kolekcija\bin\Debug\HashSet genericka kolekcija.exe
+C:\Users\mihaj\source\repos\c#\HashSet genericka kolekcija\HashSet genericka kolekcija\bin\Debug\HashSet genericka kolekcija.pdb
+C:\Users\mihaj\source\repos\c#\HashSet genericka kolekcija\HashSet genericka kolekcija\obj\Debug\HashSet genericka kolekcija.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\HashSet genericka kolekcija\HashSet genericka kolekcija\obj\Debug\HashSet genericka kolekcija.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\HashSet genericka kolekcija\HashSet genericka kolekcija\obj\Debug\HashSet genericka kolekcija.exe
+C:\Users\mihaj\source\repos\c#\HashSet genericka kolekcija\HashSet genericka kolekcija\obj\Debug\HashSet genericka kolekcija.pdb

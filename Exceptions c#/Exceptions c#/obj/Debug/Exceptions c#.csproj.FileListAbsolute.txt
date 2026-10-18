@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Exceptions c#\Exceptions c#\bin\Debug\Exceptions c#.exe.config
+C:\Users\mihaj\source\repos\c#\Exceptions c#\Exceptions c#\bin\Debug\Exceptions c#.exe
+C:\Users\mihaj\source\repos\c#\Exceptions c#\Exceptions c#\bin\Debug\Exceptions c#.pdb
+C:\Users\mihaj\source\repos\c#\Exceptions c#\Exceptions c#\obj\Debug\Exceptions c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Exceptions c#\Exceptions c#\obj\Debug\Exceptions c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Exceptions c#\Exceptions c#\obj\Debug\Exceptions c#.exe
+C:\Users\mihaj\source\repos\c#\Exceptions c#\Exceptions c#\obj\Debug\Exceptions c#.pdb

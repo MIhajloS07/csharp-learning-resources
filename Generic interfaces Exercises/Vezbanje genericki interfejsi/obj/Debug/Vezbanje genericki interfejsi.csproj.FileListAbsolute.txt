@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Vezbanje genericki interfejsi\Vezbanje genericki interfejsi\bin\Debug\Vezbanje genericki interfejsi.exe.config
+C:\Users\mihaj\source\repos\c#\Vezbanje genericki interfejsi\Vezbanje genericki interfejsi\bin\Debug\Vezbanje genericki interfejsi.exe
+C:\Users\mihaj\source\repos\c#\Vezbanje genericki interfejsi\Vezbanje genericki interfejsi\bin\Debug\Vezbanje genericki interfejsi.pdb
+C:\Users\mihaj\source\repos\c#\Vezbanje genericki interfejsi\Vezbanje genericki interfejsi\obj\Debug\Vezbanje genericki interfejsi.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Vezbanje genericki interfejsi\Vezbanje genericki interfejsi\obj\Debug\Vezbanje genericki interfejsi.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Vezbanje genericki interfejsi\Vezbanje genericki interfejsi\obj\Debug\Vezbanje genericki interfejsi.exe
+C:\Users\mihaj\source\repos\c#\Vezbanje genericki interfejsi\Vezbanje genericki interfejsi\obj\Debug\Vezbanje genericki interfejsi.pdb

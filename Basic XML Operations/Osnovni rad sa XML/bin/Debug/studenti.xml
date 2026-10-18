@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Root element -->
+<ucenici>
+	<!-- Elementi root-a-->
+	<ucenik id ="1">
+		<ime> Mihajlo Stoiljkovic </ime>
+		<skola> Rade &amp; Metalac </skola>
+		<grad> Leskovac </grad>
+		<razred>4</razred>
+		<smer>Elektrotehnicar racunara</smer>
+	</ucenik>
+	<ucenik id ="2">
+		<ime> Zoran Madic </ime>
+		<skola> Radoje Domanovic </skola>
+		<grad> Leskovac </grad>
+		<razred>3</razred>
+		<smer>Elektrotehnicar informacionih tehnologija</smer>
+	</ucenik>
+	<ucenik id ="3">
+		<ime> Nebojsa Radic </ime>
+		<skola> Mija Stanimirovic </skola>
+		<grad> Nis </grad>
+		<razred>3</razred>
+		<smer>Tehnicar mehatronike</smer>
+	</ucenik>
+	<ucenik id ="4">
+		<ime> Goran Dragic </ime>
+		<skola> Nikola Tesla </skola>
+		<grad> Beograd </grad>
+		<razred>1</razred>
+		<smer>Tehnicar multimedije</smer>
+	</ucenik>
+	<ucenik id ="5">
+		<ime> Luka Dragovic </ime>
+		<skola> Gimnazija 9.maj </skola>
+		<grad> Nis </grad>
+		<razred>4</razred>
+		<smer>Prirodno matematicki</smer>
+	</ucenik>
+</ucenici>

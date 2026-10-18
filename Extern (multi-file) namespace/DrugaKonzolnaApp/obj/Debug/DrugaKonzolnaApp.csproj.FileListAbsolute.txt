@@ -1,0 +1,10 @@
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\bin\Debug\DrugaKonzolnaApp.exe.config
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\bin\Debug\DrugaKonzolnaApp.exe
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\bin\Debug\DrugaKonzolnaApp.pdb
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\bin\Debug\ustom_Namespace.dll
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\bin\Debug\ustom_Namespace.pdb
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\obj\Debug\DrugaKonzolnaApp.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\obj\Debug\DrugaKonzolnaApp.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\obj\Debug\DrugaKon.070C59EE.Up2Date
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\obj\Debug\DrugaKonzolnaApp.exe
+C:\Users\mihaj\source\repos\c#\Eksterni (visefajlni) namespace\DrugaKonzolnaApp\obj\Debug\DrugaKonzolnaApp.pdb

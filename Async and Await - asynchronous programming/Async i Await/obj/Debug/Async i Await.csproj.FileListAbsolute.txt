@@ -1,0 +1,7 @@
+E:\VISUAL STUDIO\c#\Async i Await\Async i Await\obj\Debug\Async i Await.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c#\Async i Await\Async i Await\obj\Debug\Async i Await.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c#\Async i Await\Async i Await\bin\Debug\Async i Await.exe.config
+E:\VISUAL STUDIO\c#\Async i Await\Async i Await\bin\Debug\Async i Await.exe
+E:\VISUAL STUDIO\c#\Async i Await\Async i Await\bin\Debug\Async i Await.pdb
+E:\VISUAL STUDIO\c#\Async i Await\Async i Await\obj\Debug\Async i Await.exe
+E:\VISUAL STUDIO\c#\Async i Await\Async i Await\obj\Debug\Async i Await.pdb

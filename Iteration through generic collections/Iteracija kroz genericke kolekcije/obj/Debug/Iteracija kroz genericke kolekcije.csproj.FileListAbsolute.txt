@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Iteracija kroz genericke kolekcije\Iteracija kroz genericke kolekcije\bin\Debug\Iteracija kroz genericke kolekcije.exe.config
+C:\Users\mihaj\source\repos\c#\Iteracija kroz genericke kolekcije\Iteracija kroz genericke kolekcije\bin\Debug\Iteracija kroz genericke kolekcije.exe
+C:\Users\mihaj\source\repos\c#\Iteracija kroz genericke kolekcije\Iteracija kroz genericke kolekcije\bin\Debug\Iteracija kroz genericke kolekcije.pdb
+C:\Users\mihaj\source\repos\c#\Iteracija kroz genericke kolekcije\Iteracija kroz genericke kolekcije\obj\Debug\Iteracija kroz genericke kolekcije.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Iteracija kroz genericke kolekcije\Iteracija kroz genericke kolekcije\obj\Debug\Iteracija kroz genericke kolekcije.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Iteracija kroz genericke kolekcije\Iteracija kroz genericke kolekcije\obj\Debug\Iteracija kroz genericke kolekcije.exe
+C:\Users\mihaj\source\repos\c#\Iteracija kroz genericke kolekcije\Iteracija kroz genericke kolekcije\obj\Debug\Iteracija kroz genericke kolekcije.pdb

@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Zapecacene klase c#\Zapecacene klase c#\bin\Debug\Zapecacene klase c#.exe.config
+C:\Users\mihaj\source\repos\c#\Zapecacene klase c#\Zapecacene klase c#\bin\Debug\Zapecacene klase c#.exe
+C:\Users\mihaj\source\repos\c#\Zapecacene klase c#\Zapecacene klase c#\bin\Debug\Zapecacene klase c#.pdb
+C:\Users\mihaj\source\repos\c#\Zapecacene klase c#\Zapecacene klase c#\obj\Debug\Zapecacene klase c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Zapecacene klase c#\Zapecacene klase c#\obj\Debug\Zapecacene klase c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Zapecacene klase c#\Zapecacene klase c#\obj\Debug\Zapecacene klase c#.exe
+C:\Users\mihaj\source\repos\c#\Zapecacene klase c#\Zapecacene klase c#\obj\Debug\Zapecacene klase c#.pdb

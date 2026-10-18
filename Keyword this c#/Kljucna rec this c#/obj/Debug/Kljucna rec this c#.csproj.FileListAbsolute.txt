@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Kljucna rec this c#\Kljucna rec this c#\obj\Debug\Kljucna rec this c#.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Kljucna rec this c#\Kljucna rec this c#\obj\Debug\Kljucna rec this c#.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Kljucna rec this c#\Kljucna rec this c#\bin\Debug\Kljucna rec this c#.exe.config
+C:\Users\mihaj\source\repos\c#\Kljucna rec this c#\Kljucna rec this c#\bin\Debug\Kljucna rec this c#.exe
+C:\Users\mihaj\source\repos\c#\Kljucna rec this c#\Kljucna rec this c#\bin\Debug\Kljucna rec this c#.pdb
+C:\Users\mihaj\source\repos\c#\Kljucna rec this c#\Kljucna rec this c#\obj\Debug\Kljucna rec this c#.exe
+C:\Users\mihaj\source\repos\c#\Kljucna rec this c#\Kljucna rec this c#\obj\Debug\Kljucna rec this c#.pdb

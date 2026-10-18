@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Interfejsi\Interfejsi\obj\Debug\Interfejsi.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Interfejsi\Interfejsi\obj\Debug\Interfejsi.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Interfejsi\Interfejsi\bin\Debug\Interfejsi.exe.config
+C:\Users\mihaj\source\repos\c#\Interfejsi\Interfejsi\bin\Debug\Interfejsi.exe
+C:\Users\mihaj\source\repos\c#\Interfejsi\Interfejsi\bin\Debug\Interfejsi.pdb
+C:\Users\mihaj\source\repos\c#\Interfejsi\Interfejsi\obj\Debug\Interfejsi.exe
+C:\Users\mihaj\source\repos\c#\Interfejsi\Interfejsi\obj\Debug\Interfejsi.pdb

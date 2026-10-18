@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Staticki clanovi i staticke klase\Staticki clanovi i staticke klase\bin\Debug\Staticki clanovi i staticke klase.exe.config
+C:\Users\mihaj\source\repos\c#\Staticki clanovi i staticke klase\Staticki clanovi i staticke klase\bin\Debug\Staticki clanovi i staticke klase.exe
+C:\Users\mihaj\source\repos\c#\Staticki clanovi i staticke klase\Staticki clanovi i staticke klase\bin\Debug\Staticki clanovi i staticke klase.pdb
+C:\Users\mihaj\source\repos\c#\Staticki clanovi i staticke klase\Staticki clanovi i staticke klase\obj\Debug\Staticki clanovi i staticke klase.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Staticki clanovi i staticke klase\Staticki clanovi i staticke klase\obj\Debug\Staticki clanovi i staticke klase.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Staticki clanovi i staticke klase\Staticki clanovi i staticke klase\obj\Debug\Staticki clanovi i staticke klase.exe
+C:\Users\mihaj\source\repos\c#\Staticki clanovi i staticke klase\Staticki clanovi i staticke klase\obj\Debug\Staticki clanovi i staticke klase.pdb

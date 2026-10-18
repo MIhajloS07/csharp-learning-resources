@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihaj\\source\\repos\\c#\\TestTextApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCEB53E-3E78-4730-9016-4D780D6E7AF0}|TestTextApp\\TestTextApp.csproj|c:\\users\\mihaj\\source\\repos\\c#\\testtextapp\\testtextapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCEB53E-3E78-4730-9016-4D780D6E7AF0}|TestTextApp\\TestTextApp.csproj|solutionrelative:testtextapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C72B08-ECFA-4F0C-B36D-A75CCBCCE7FE}|BibliotekaZaTekst\\BibliotekaZaTekst.csproj|c:\\users\\mihaj\\source\\repos\\c#\\testtextapp\\bibliotekazatekst\\tekstobrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C72B08-ECFA-4F0C-B36D-A75CCBCCE7FE}|BibliotekaZaTekst\\BibliotekaZaTekst.csproj|solutionrelative:bibliotekazatekst\\tekstobrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TekstObrada.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\source\\repos\\c#\\TestTextApp\\BibliotekaZaTekst\\TekstObrada.cs",
+              "RelativeDocumentMoniker": "BibliotekaZaTekst\\TekstObrada.cs",
+              "ToolTip": "C:\\Users\\mihaj\\source\\repos\\c#\\TestTextApp\\BibliotekaZaTekst\\TekstObrada.cs",
+              "RelativeToolTip": "BibliotekaZaTekst\\TekstObrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:47:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\source\\repos\\c#\\TestTextApp\\TestTextApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestTextApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mihaj\\source\\repos\\c#\\TestTextApp\\TestTextApp\\Program.cs",
+              "RelativeToolTip": "TestTextApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:47:15.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

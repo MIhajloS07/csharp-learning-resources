@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Rad sa knjigama c# konzolna aplikacija", "Rad sa knjigama c# konzolna aplikacija.exe", "{D1BAAFA5-2BE3-ED2D-3142-88AD1AA8A658}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\mihaj\source\repos\c#\Rad sa knjigama c# konzolna aplikacija\Rad sa knjigama c# konzolna aplikacija\obj\Debug\Rad sa knjigama c# konzolna aplikacija.exe
+		RemoteMachine = DESKTOP-BAFHUP9
+		StartingDirectory = C:\Users\mihaj\source\repos\c#\Rad sa knjigama c# konzolna aplikacija\Rad sa knjigama c# konzolna aplikacija\obj\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BAAFA5-2BE3-ED2D-3142-88AD1AA8A658}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5395FF-7281-4C76-B08F-76AE3E9B4119}
+	EndGlobalSection
+EndGlobal

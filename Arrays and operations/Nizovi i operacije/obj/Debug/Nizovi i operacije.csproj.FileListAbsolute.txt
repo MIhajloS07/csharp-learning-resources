@@ -1,0 +1,8 @@
+E:\VISUAL STUDIO\c#\Nizovi i operacije\Nizovi i operacije\obj\Debug\Nizovi i operacije.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c#\Nizovi i operacije\Nizovi i operacije\obj\Debug\Nizovi i operacije.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c#\Nizovi i operacije\Nizovi i operacije\bin\Debug\Nizovi i operacije.exe.config
+E:\VISUAL STUDIO\c#\Nizovi i operacije\Nizovi i operacije\bin\Debug\Nizovi i operacije.exe
+E:\VISUAL STUDIO\c#\Nizovi i operacije\Nizovi i operacije\bin\Debug\Nizovi i operacije.pdb
+E:\VISUAL STUDIO\c#\Nizovi i operacije\Nizovi i operacije\obj\Debug\Nizovi i operacije.exe
+E:\VISUAL STUDIO\c#\Nizovi i operacije\Nizovi i operacije\obj\Debug\Nizovi i operacije.pdb
+E:\VISUAL STUDIO\c#\Nizovi i operacije\Nizovi i operacije\obj\Debug\Nizovi i operacije.exe.config

@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\c#\Mini sistem za rad sa 3 ucenika\Mini sistem za rad sa 3 ucenika\obj\Debug\Mini sistem za rad sa 3 ucenika.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c#\Mini sistem za rad sa 3 ucenika\Mini sistem za rad sa 3 ucenika\obj\Debug\Mini sistem za rad sa 3 ucenika.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c#\Mini sistem za rad sa 3 ucenika\Mini sistem za rad sa 3 ucenika\bin\Debug\Mini sistem za rad sa 3 ucenika.exe.config
+C:\Users\mihaj\source\repos\c#\Mini sistem za rad sa 3 ucenika\Mini sistem za rad sa 3 ucenika\bin\Debug\Mini sistem za rad sa 3 ucenika.exe
+C:\Users\mihaj\source\repos\c#\Mini sistem za rad sa 3 ucenika\Mini sistem za rad sa 3 ucenika\bin\Debug\Mini sistem za rad sa 3 ucenika.pdb
+C:\Users\mihaj\source\repos\c#\Mini sistem za rad sa 3 ucenika\Mini sistem za rad sa 3 ucenika\obj\Debug\Mini sistem za rad sa 3 ucenika.exe
+C:\Users\mihaj\source\repos\c#\Mini sistem za rad sa 3 ucenika\Mini sistem za rad sa 3 ucenika\obj\Debug\Mini sistem za rad sa 3 ucenika.pdb

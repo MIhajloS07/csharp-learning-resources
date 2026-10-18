@@ -1,0 +1,8 @@
+E:\VISUAL STUDIO\c#\IEnumerator\IEnumerator\bin\Debug\IEnumerator.exe.config
+E:\VISUAL STUDIO\c#\IEnumerator\IEnumerator\bin\Debug\IEnumerator.exe
+E:\VISUAL STUDIO\c#\IEnumerator\IEnumerator\bin\Debug\IEnumerator.pdb
+E:\VISUAL STUDIO\c#\IEnumerator\IEnumerator\obj\Debug\IEnumerator.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c#\IEnumerator\IEnumerator\obj\Debug\IEnumerator.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c#\IEnumerator\IEnumerator\obj\Debug\IEnumerator.exe
+E:\VISUAL STUDIO\c#\IEnumerator\IEnumerator\obj\Debug\IEnumerator.pdb
+E:\VISUAL STUDIO\c#\IEnumerator\IEnumerator\obj\Debug\IEnumerator.exe.config
