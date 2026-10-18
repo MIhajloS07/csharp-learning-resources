@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="C# Learning Path">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0a22"/>
+      <stop offset="0.55" stop-color="#241660"/>
+      <stop offset="1" stop-color="#512BD4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#9b7bff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#9b7bff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="typed"><rect x="100" y="205" width="504" height="52">
+      <animate attributeName="width" values="0;504;504;0" keyTimes="0;0.4;0.85;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <text x="905" y="235" font-family="Consolas, Menlo, monospace" font-size="190" fill="#ffffff" opacity="0.07">{ }
+    <animate attributeName="opacity" values="0.05;0.11;0.05" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <text x="640" y="120" font-family="Consolas, Menlo, monospace" font-size="34" fill="#ffffff" opacity="0.10">{ }<animate attributeName="y" values="330;-30" dur="11s" begin="0s" repeatCount="indefinite"/></text>
+<text x="760" y="120" font-family="Consolas, Menlo, monospace" font-size="30" fill="#ffffff" opacity="0.10">=&gt;<animate attributeName="y" values="330;-30" dur="14s" begin="3s" repeatCount="indefinite"/></text>
+<text x="880" y="120" font-family="Consolas, Menlo, monospace" font-size="32" fill="#ffffff" opacity="0.10">&lt;T&gt;<animate attributeName="y" values="330;-30" dur="12s" begin="6s" repeatCount="indefinite"/></text>
+<text x="1000" y="120" font-family="Consolas, Menlo, monospace" font-size="34" fill="#ffffff" opacity="0.10">[]<animate attributeName="y" values="330;-30" dur="15s" begin="1s" repeatCount="indefinite"/></text>
+<text x="1090" y="120" font-family="Consolas, Menlo, monospace" font-size="24" fill="#ffffff" opacity="0.10">async<animate attributeName="y" values="330;-30" dur="13s" begin="8s" repeatCount="indefinite"/></text>
+<text x="560" y="120" font-family="Consolas, Menlo, monospace" font-size="24" fill="#ffffff" opacity="0.10">LINQ<animate attributeName="y" values="330;-30" dur="16s" begin="5s" repeatCount="indefinite"/></text>
+<text x="950" y="120" font-family="Consolas, Menlo, monospace" font-size="24" fill="#ffffff" opacity="0.10">class<animate attributeName="y" values="330;-30" dur="17s" begin="10s" repeatCount="indefinite"/></text>
+<text x="700" y="120" font-family="Consolas, Menlo, monospace" font-size="22" fill="#ffffff" opacity="0.10">0x1F<animate attributeName="y" values="330;-30" dur="13s" begin="9s" repeatCount="indefinite"/></text>
+<text x="1140" y="120" font-family="Consolas, Menlo, monospace" font-size="30" fill="#ffffff" opacity="0.10">&amp;&amp;<animate attributeName="y" values="330;-30" dur="12s" begin="4s" repeatCount="indefinite"/></text>
+
+  <path d="M0,262.0 L20,263.9 L40,265.7 L60,267.3 L80,268.7 L100,269.8 L120,270.6 L140,271.0 L160,271.0 L180,270.6 L200,269.8 L220,268.7 L240,267.3 L260,265.7 L280,263.9 L300,262.0 L320,260.1 L340,258.3 L360,256.7 L380,255.3 L400,254.2 L420,253.4 L440,253.0 L460,253.0 L480,253.4 L500,254.2 L520,255.3 L540,256.7 L560,258.3 L580,260.1 L600,262.0 L620,263.9 L640,265.7 L660,267.3 L680,268.7 L700,269.8 L720,270.6 L740,271.0 L760,271.0 L780,270.6 L800,269.8 L820,268.7 L840,267.3 L860,265.7 L880,263.9 L900,262.0 L920,260.1 L940,258.3 L960,256.7 L980,255.3 L1000,254.2 L1020,253.4 L1040,253.0 L1060,253.0 L1080,253.4 L1100,254.2 L1120,255.3 L1140,256.7 L1160,258.3 L1180,260.1 L1200,262.0 L1220,263.9 L1240,265.7 L1260,267.3 L1280,268.7 L1300,269.8 L1320,270.6 L1340,271.0 L1360,271.0 L1380,270.6 L1400,269.8 L1420,268.7 L1440,267.3 L1460,265.7 L1480,263.9 L1500,262.0 L1520,260.1 L1540,258.3 L1560,256.7 L1580,255.3 L1600,254.2 L1620,253.4 L1640,253.0 L1660,253.0 L1680,253.4 L1700,254.2 L1720,255.3 L1740,256.7 L1760,258.3 L1780,260.1 L1800,262.0 L1820,263.9 L1800,300 L0,300 Z" fill="#7a55f0" opacity="0.28">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,282.4 L20,281.6 L40,280.6 L60,279.4 L80,278.1 L100,276.7 L120,275.2 L140,273.8 L160,272.4 L180,271.3 L200,270.3 L220,269.6 L240,269.1 L260,269.0 L280,269.2 L300,269.6 L320,270.4 L340,271.4 L360,272.6 L380,273.9 L400,275.3 L420,276.8 L440,278.2 L460,279.6 L480,280.7 L500,281.7 L520,282.4 L540,282.9 L560,283.0 L580,282.8 L600,282.4 L620,281.6 L640,280.6 L660,279.4 L680,278.1 L700,276.7 L720,275.2 L740,273.8 L760,272.4 L780,271.3 L800,270.3 L820,269.6 L840,269.1 L860,269.0 L880,269.2 L900,269.6 L920,270.4 L940,271.4 L960,272.6 L980,273.9 L1000,275.3 L1020,276.8 L1040,278.2 L1060,279.6 L1080,280.7 L1100,281.7 L1120,282.4 L1140,282.9 L1160,283.0 L1180,282.8 L1200,282.4 L1220,281.6 L1240,280.6 L1260,279.4 L1280,278.1 L1300,276.7 L1320,275.2 L1340,273.8 L1360,272.4 L1380,271.3 L1400,270.3 L1420,269.6 L1440,269.1 L1460,269.0 L1480,269.2 L1500,269.6 L1520,270.4 L1540,271.4 L1560,272.6 L1580,273.9 L1600,275.3 L1620,276.8 L1640,278.2 L1660,279.6 L1680,280.7 L1700,281.7 L1720,282.4 L1740,282.9 L1760,283.0 L1780,282.8 L1800,282.4 L1820,281.6 L1800,300 L0,300 Z" fill="#b39dff" opacity="0.20">
+    <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="19s" repeatCount="indefinite"/>
+  </path>
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="1.2s" fill="freeze"/>
+    <text x="80" y="128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="70" font-weight="700" fill="#ffffff" letter-spacing="-1"><tspan fill="#c4b0ff">C#</tspan> Learning Path</text>
+  </g>
+  <text x="82" y="170" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#d9ccff" letter-spacing="1.2">.NET  ·  OOP  ·  Generics  ·  LINQ  ·  async/await  ·  ADO.NET
+    <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="1.2s" fill="freeze"/>
+  </text>
+  <rect x="80" y="205" width="544" height="52" rx="10" fill="#000000" opacity="0.38"/>
+  <g clip-path="url(#typed)">
+    <text x="100" y="239" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="24" textLength="504" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#4EC9B0">Console</tspan><tspan fill="#D4D4D4">.</tspan><tspan fill="#DCDCAA">WriteLine</tspan><tspan fill="#D4D4D4">(</tspan><tspan fill="#CE9178">"Hello, World!"</tspan><tspan fill="#D4D4D4">);</tspan></text>
+  </g>
+  <rect x="100" y="215" width="2.5" height="28" fill="#ffffff">
+    <animate attributeName="x" values="100;604;604;100" keyTimes="0;0.4;0.85;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
